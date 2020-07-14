@@ -1,0 +1,55 @@
+[33mcommit b06adfaf523791aecb3f924ffb7113f53dbb7c15[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: ceccac2 793df03
+Author: Rejil Radhakrishnan <rajilraji33@gmail.com>
+Date:   Tue Jul 14 18:57:18 2020 +0530
+
+    Merge branch 'feature'
+
+[33mcommit 793df0389cc6586e03e36265286b655657cc6d09[m[33m ([m[1;32mfeature[m[33m)[m
+Author: Rejil Radhakrishnan <rajilraji33@gmail.com>
+Date:   Tue Jul 14 18:56:10 2020 +0530
+
+    master check
+
+[33mcommit ceccac2ff51fbe43e4bdb552c19f0cf5adba0872[m
+Author: Rejil Radhakrishnan <rajilraji33@gmail.com>
+Date:   Tue Jul 14 18:52:12 2020 +0530
+
+    master data added
+
+[33mcommit a020a7913139424a6157d22c83b4735be1db8e95[m
+Author: Rejil Radhakrishnan <rajilraji33@gmail.com>
+Date:   Tue Jul 14 18:46:58 2020 +0530
+
+    answer updated
+
+[33mcommit ae3ae2a55c23bed7f346d310ae97e94e4e952966[m[33m ([m[1;35mrefs/stash[m[33m)[m
+Merge: 07fd9f0 678a8d2
+Author: Rejil Radhakrishnan <rajilraji33@gmail.com>
+Date:   Tue Jul 14 18:41:59 2020 +0530
+
+    WIP on feature: 07fd9f0 second page added
+
+[33mcommit 678a8d21fd3f5d6af865548fe82d891a180d5acc[m
+Author: Rejil Radhakrishnan <rajilraji33@gmail.com>
+Date:   Tue Jul 14 18:41:59 2020 +0530
+
+    index on feature: 07fd9f0 second page added
+
+[33mcommit 07fd9f0f4fa408f665aa5d0df688c57235789c2c[m
+Author: Rejil Radhakrishnan <rajilraji33@gmail.com>
+Date:   Tue Jul 14 18:30:45 2020 +0530
+
+    second page added
+
+[33mcommit d69791ac4d78e5401d262b3018cabe23caf85ff8[m
+Author: Rejil Radhakrishnan <rajilraji33@gmail.com>
+Date:   Tue Jul 14 13:39:59 2020 +0530
+
+    second change
+
+[33mcommit 27ce1e275c2344c8917a7b24b14cf1c8583170e8[m
+Author: Rejil Radhakrishnan <rajilraji33@gmail.com>
+Date:   Tue Jul 14 13:35:47 2020 +0530
+
+    created initil file
